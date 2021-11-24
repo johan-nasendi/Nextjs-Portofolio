@@ -1,6 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Tutorial [Youtube](https://www.youtube.com/watch?v=6820YK-YRL0&t=2292) 
 
-## Getting Started
+## Slicing UI Design Dengan Next JS, Tailwind CSS, Dan Netlify 
 
 First, run the development server:
 
